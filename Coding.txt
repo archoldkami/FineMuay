@@ -1,0 +1,10 @@
+(coding)
+0= KaoChieng	[in 61 files]
+1= Guard		[in 467 files]
+2= KaoDtad		[in 47 files]
+3= KaoLaa		[in 70 files]
+4= KaoDti		[in 82 files]
+5= KaoTrong		[in 95 files]
+6= KaoKratai	[in 69 files]
+7= KaoLoi		[in 75 files]
+8= step			[in 44 files]
