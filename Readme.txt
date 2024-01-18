@@ -1,6 +1,6 @@
 FineMuay - 2023
 
-This project is part of TFM for Visual Analytics and Big Data Master course.
+This project is part of TFM for Visual Analytics and Big Data Master course (Universidad de la Rioja).
 
 The purpose of this work is to propose a system to support Muay Thai judging training,  to new people interested on this contact sport, based on both pre-recorded and real-time video analysis.
 
